@@ -35,6 +35,12 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+base = "light"
+primaryColor = "#1a6b52"
+backgroundColor = "#f8faf9"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1a2b2a"
+font = "sans serif"
 
 # ============================================================
 # 2. API KEY 안전하게 읽기
